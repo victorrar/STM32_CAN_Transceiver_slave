@@ -1,0 +1,10 @@
+#ifndef STM32_CAN_TRANSCEIVER_MASTER_CAN_H
+#define STM32_CAN_TRANSCEIVER_MASTER_CAN_H
+
+void CAN_Mytest();
+
+void CAN_loopTick();
+
+void CAN_Init();
+
+#endif //STM32_CAN_TRANSCEIVER_MASTER_CAN_H
